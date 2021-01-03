@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-🇮🇹 21, PCB designer from Italy
-🔌 Electronics technician
-🖥️ Software Engineering student
-👇 Check it out 👇
-salvatoreraccardi.com
+- 21, PCB designer from Italy
+- 🔌 Electronics technician
+- 🖥️ Software Engineering student
+
 
 <!--
 **salvatoreraccardi/salvatoreraccardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
