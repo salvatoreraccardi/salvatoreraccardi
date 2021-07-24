@@ -2,7 +2,7 @@
 
 - 21, PCB designer from Italy
 - 🔌 Electronics technician
-- 🖥️ Software Engineering student
+- 🖥️ Computer Engineering student
 
 
 <!--
