@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/salvatoreraccardi/)](https://www.linkedin.com/in/salvatoreraccardi/)
 
 - 21, PCB designer from Italy
 - 🔌 Electronics technician
