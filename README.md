@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 21, PCB designer from Italy
-- 🔌 Electronics technician
 - 🖥️ Computer Engineering student
 
 
