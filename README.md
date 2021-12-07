@@ -1,4 +1,5 @@
 ![alt text](https://raw.githubusercontent.com/salvatoreraccardi/salvatoreraccardi/main/1.png)
+![alt text](https://raw.githubusercontent.com/salvatoreraccardi/salvatoreraccardi/main/2.png)
 ### Hi there 👋
 
 - 21, PCB designer from Italy
