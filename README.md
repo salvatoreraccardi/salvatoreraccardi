@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 22, PCB designer from Italy
+- 23, PCB designer from Italy
 - 🖥️ Engineering student
 
 
