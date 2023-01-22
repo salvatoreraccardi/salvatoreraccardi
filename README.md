@@ -1,12 +1,10 @@
 ![alt text](https://raw.githubusercontent.com/salvatoreraccardi/salvatoreraccardi/main/2.png)
 
-# About Me
+# ⚡ About Me
 Ciao! My name is Salvatore(23y/o Italian) and I'm a PCB Designer and a Computer Engineering student.
 I develop experimental designs for IoT applications(smart devices, devkit and more).
 
-I can fund my R&D activities by doing consulting and project design for startups and companies.
-
-⚡ Fun fact: When I was 7 years old, I made my first circuit(A flashlight with a few LEDs and a switch).
+Fun fact: When I was 7 years old, I made my first circuit(A flashlight with a few LEDs and a switch).
 
 ## 🧪 My Projects
 
