@@ -1,25 +1,15 @@
 ![alt text](https://raw.githubusercontent.com/salvatoreraccardi/salvatoreraccardi/main/2.png)
 
-### Hi there 👋
+# About Me
+Ciao! My name is Salvatore(23y/o Italian) and I'm a PCB Designer and a Computer Engineering student.
+I develop experimental designs for IoT applications(smart devices, devkit and more).
 
-- 23, PCB designer from Italy
-- 🖥️ Engineering student
+I can fund my R&D activities by doing consulting and project design for startups and companies.
 
-- 🔭 I’m currently working on harvesting energy iot project.
-- 🌱 I'm currently studying the nRF52/53 uCs.
-- ⚡ Fun fact: When I was 7 years old, I made my first circuit(A flashlight with a few LEDs and a switch).
+⚡ Fun fact: When I was 7 years old, I made my first circuit(A flashlight with a few LEDs and a switch).
 
-<!--
-**salvatoreraccardi/salvatoreraccardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧪 My Projects
 
-Here are some ideas to get you started:
-
-
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [OBJEX Link](https://github.com/salvatoreraccardi/OBJEX_LINK): A modular IoT board, for rapid prototyping and developing research. 
+- [OBJEX EHDK](https://github.com/salvatoreraccardi/Energy-Harvesting-DevKit): Energy harvesting DevKit. 
+- [Nordic-PPK2-USB_C-Adapter](https://github.com/salvatoreraccardi/Nordic-PPK2-USB_C-Adapter): For measuring the current drawn by a device/board.
