@@ -4,7 +4,7 @@
 Ciao! My name is Salvatore(23y/o Italian) and I'm a PCB Designer and a Computer Engineering student.
 I develop experimental designs for IoT applications(smart devices, devkit, and more).
 
-🔸 I do consulting and contract development for IoT projects and beyond. 
+🔸 I do consulting and development for IoT projects.  
 
 Fun fact: When I was 7 years old, I made my first circuit(A flashlight with a few LEDs and a switch).
 
