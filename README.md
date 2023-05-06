@@ -13,3 +13,4 @@ Fun fact: When I was 7 years old, I made my first circuit(A flashlight with a fe
 - [OBJEX Link](https://github.com/salvatoreraccardi/OBJEX_LINK): A modular IoT board, for rapid prototyping and developing research. 
 - [OBJEX EHDK](https://github.com/salvatoreraccardi/Energy-Harvesting-DevKit): Energy harvesting DevKit. 
 - [Nordic-PPK2-USB_C-Adapter](https://github.com/salvatoreraccardi/Nordic-PPK2-USB_C-Adapter): For measuring the current drawn by a device/board.
+- [Smart DoorWindow sensor](https://github.com/salvatoreraccardi/Smart-DoorWindow-sensor): Open source Smart door/window sensor. ESP32-C3 based with a custom power latch to obtain a deep sleep mode current of (30-60nA).
