@@ -1,7 +1,7 @@
 ![alt text](https://raw.githubusercontent.com/salvatoreraccardi/salvatoreraccardi/main/2.png)
 
 # ⚡ About Me
-Ciao! My name is Salvatore(23y/o Italian) and I'm a PCB Designer and a Computer Engineering student.
+Ciao! My name is Salvatore and I'm a PCB Designer and a Computer Engineering student.
 I develop experimental designs for IoT applications(smart devices, devkit, and more).
 
 🔸 I do consulting and development for IoT projects.  
