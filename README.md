@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/salvatoreraccardi/salvatoreraccardi/main/2.png)
+![alt text](https://raw.githubusercontent.com/salvatoreraccardi/salvatoreraccardi/main/3.jpg)
 
 # ⚡ About Me
 Ciao! My name is Salvatore and I'm a Junior Hardware Engineer.
